@@ -20,7 +20,7 @@ namespace Assesments
             num1 = num2;
             num2 = temp;
 
-            Console.WriteLine("After swapping: First number = " + num1 + ", Second number = " + num2);
+            Console.WriteLine("After swapping: First number = " + num1 + ", Second num= " + num2);
         }
     }
 }
